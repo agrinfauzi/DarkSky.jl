@@ -67,7 +67,7 @@ See the [CONTRIBUTING](https://github.com/ellisvalentiner/DarkSky.jl/blob/master
 
 ## Conduct
 
-We follow to the [Julia community standards](http://julialang.org/community/standards/).
+We are following to the [Julia community standards](http://julialang.org/community/standards/).
 
 ## License
 
